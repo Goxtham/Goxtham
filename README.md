@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Goxtham
+- 👋 Hi, I’m Gowtham Govindh. S
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me- goxthamg2003@gmail.com
