@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gowtham Govindh. S
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Computer Science
+- 🌱 Computer Science Graduate
 - 📫 How to reach me- goxthamg2003@gmail.com
 
 <!---
